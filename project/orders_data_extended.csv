@@ -1,0 +1,20 @@
+Order ID,Order Date,CustomerName,State,City,Amount,Profit,Quantity,Category,Sub-Category,Payment Mode
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,2500,420,2,Furniture,Chairs,COD
+B-25993,03-02-2018,Madhav,Delhi,Delhi,1800,300,1,Technology,Accessories,Online
+B-25973,24-01-2018,Madan Mohan,Uttar Pradesh,Mathura,3200,550,3,Furniture,Tables,COD
+B-25923,27-12-2018,Gopal,Maharashtra,Mumbai,1500,200,2,Office Supplies,Binders,Online
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,2800,480,2,Technology,Phones,COD
+B-25967,21-01-2018,Sudevi,Uttar Pradesh,Prayagraj,2100,350,1,Furniture,Bookcases,Online
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,1200,150,4,Office Supplies,Paper,COD
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,3400,620,2,Technology,Laptops,Online
+B-25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,2600,410,3,Furniture,Chairs,Online
+B-25602,01-04-2018,Vrinda,Maharashtra,Pune,1750,220,2,Office Supplies,Storage,COD
+B-25858,13-11-2018,Udhav,Maharashtra,Mumbai,3900,700,1,Technology,Printers,Online
+B-25969,21-01-2018,Shreyshi,Gujarat,Surat,1400,180,5,Office Supplies,Labels,COD
+B-26099,30-03-2018,Bhishm,Maharashtra,Mumbai,3100,520,2,Furniture,Tables,Online
+B-25997,04-02-2018,Yogesh,Maharashtra,Pune,2250,360,3,Technology,Accessories,COD
+B-25881,25-11-2018,Lalita,Uttar Pradesh,Mathura,1950,260,2,Office Supplies,Envelopes,Online
+B-25924,12-02-2018,Madhav,Uttar Pradesh,Mathura,2700,450,1,Furniture,Sofas,COD
+B-25823,18-10-2018,Rohan,Maharashtra,Mumbai,3600,640,2,Technology,Phones,Online
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,1600,210,3,Office Supplies,Fasteners,COD
+B-25862,15-11-2018,Amol,Bihar,Patna,2300,330,2,Furniture,Chairs,Online
